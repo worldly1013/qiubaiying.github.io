@@ -2,7 +2,7 @@
 title: 安乐死
 SEOTitle: 李阳的博客
 header-img: img/home-bg-o.jpg
-email: qiubaiying@gmail.com
+email: 1184785075@qq.com
 description: "Born in misery and died in peace."
 keyword: "李阳的博客 , 李阳 "
 url: "http://worldly1013.github.io"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/worldly1013/worldly1013.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
