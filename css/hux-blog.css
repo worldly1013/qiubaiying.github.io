@@ -297,7 +297,7 @@ pre code {
   margin-top: 20px;
 }
 .post-container .pager li {
-  width: 48%;
+  width: 30%;
 }
 .post-container .pager li.next {
   float: right;
@@ -307,6 +307,7 @@ pre code {
 }
 .post-container .pager li > a {
   width: 100%;
+  border-radius:4px;		
 }
 .post-container .pager li > a > span {
   color: #808080;
