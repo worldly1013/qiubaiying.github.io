@@ -5,7 +5,7 @@ layout:     post
 title:      async和await
 subtitle:   
 date:       2019-04-18
-author:     liyang
+author:     worldly
 header-img: img/post-bg-tech-1.jpg
 catalog: true
 tags:

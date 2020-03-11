@@ -3,7 +3,7 @@ layout:     post
 title:      this与object
 subtitle:  《你不知道的JavaScript》系列上卷
 date:       2018-05-29
-author:     liyang
+author:     worldly
 header-img: img/post-bg-cat-1.jpg
 catalog: true
 tags:
