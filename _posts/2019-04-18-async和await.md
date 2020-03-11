@@ -77,7 +77,6 @@ aa()
 
 注意： 当代码执行到 *await* 语句时，会暂停执行，直到 *await* 后面的 *promise* 正常处理
 
-
 ```
 const p = function() {
     return new Promise(resolve => {
