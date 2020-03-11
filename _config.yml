@@ -1,6 +1,6 @@
 # Site settings
-title: 安乐死
-SEOTitle: 李阳的博客
+title: 林克的一生
+SEOTitle: 轻舞飞阳的博客
 header-img: img/home-bg-o.jpg
 email: 1184785075@qq.com
 description: "Born in misery and died in peace."
@@ -18,8 +18,7 @@ sidebar-avatar: /img/avatar_m.jpeg      # use absolute URL, seeing it's used in 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qing-wu-fei-yang-38-76
+# zhihu_username:     qing-wu-fei-yang-38-76
 github_username:    worldly1013
 
 
