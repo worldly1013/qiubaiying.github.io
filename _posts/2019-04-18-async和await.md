@@ -6,7 +6,7 @@ title:      async和await
 subtitle:   
 date:       2019-04-18
 author:     worldly
-header-img: img/post-bg-tech-1.jpg
+header-img: img/post-bg-tech-6.jpg
 catalog: true
 tags:
     - JS

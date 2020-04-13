@@ -4,7 +4,7 @@ title:      this与object
 subtitle:  《你不知道的JavaScript》系列上卷
 date:       2018-05-29
 author:     worldly
-header-img: img/post-bg-cat-1.jpg
+header-img: img/post-bg-tech-2.jpg
 catalog: true
 tags:
     - JS

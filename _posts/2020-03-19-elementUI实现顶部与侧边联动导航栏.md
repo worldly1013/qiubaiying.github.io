@@ -6,7 +6,7 @@ title:      elementUI实现顶部与侧边联动导航栏
 subtitle:   
 date:       2020-03-19
 author:     worldly
-header-img: img/post-bg-e2e-ux.jpg
+header-img: img/post-bg-centerpark-4.jpeg
 catalog: true
 tags:
     - CSS
