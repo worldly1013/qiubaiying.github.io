@@ -1,7 +1,5 @@
 ---
 layout:     post
-title:      ---
-layout:     post
 title:      elementUI实现顶部与侧边联动导航栏
 subtitle:   
 date:       2020-03-19
